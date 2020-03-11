@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "Change laptop on station 009",
+      "attention": false,
+      "tech": "Reynaldo Borges",
+      "date": "2020-03-11T17:32:49.514Z",
+      "id": 2
+    },
+    {
+      "message": "Hard drive is not working properly in station 007",
+      "attention": true,
+      "tech": "Indira Granadillo",
+      "date": "2020-03-11T17:37:28.308Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Reynaldo",
+      "lastName": "Borges",
+      "id": 1
+    },
+    {
+      "firstName": "Indira",
+      "lastName": "Granadillo",
+      "id": 2
+    }
+  ]
+}
